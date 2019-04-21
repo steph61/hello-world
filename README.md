@@ -1,2 +1,8 @@
 # hello-world
 Step into a Programable world
+
+Hi someone,
+
+People nowadays always say that being able to program would be a basic skill to know the future better. 
+There's difference betwween knowing the path and walking the path.
+Knowledge starts with practice.
